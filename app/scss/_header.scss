@@ -68,7 +68,7 @@
     a {
       position: relative;
       color: $grayishBlue;
-      font-size: $font-md;
+      font-size: 1rem;
       transition: color 250ms ease-in-out;
 
       &:not(:last-child) {
